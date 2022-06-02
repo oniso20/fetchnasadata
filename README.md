@@ -24,8 +24,6 @@ It was a unique experience performing data wrangling operations using JavaScript
 
 ## Useful resources:
 
-Take a look at these couple examples that I have in my own portfolio:
-
 **Chartjs:** https://www.chartjs.org/
 
 **NASA Data:** https://data.giss.nasa.gov/gistemp/
